@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I created my first website when I was 7**
 
-![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/blob/output/snake.svg)
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
 
 ## Connect with me:
 <p align="left">
