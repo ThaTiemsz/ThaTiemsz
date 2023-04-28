@@ -4,13 +4,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/ThaTiemsz?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=thatiemsz&label=Profile%20views&color=7289da&style=for-the-badge)
 
-- 🔭 I’m currently focusing on **my studies**
+- 🔭 I’m currently focusing on **my studies**.
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js**.
 
-- 💬 Ask me about **Discord, JS or TS**
+- 💬 Ask me about **Discord, JS or TypeScript**.
 
-- ⚡ Fun fact **I created my first website when I was 7**
+- ⚡ Fun fact **I created my first website when I was 7**.
 
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
 
