@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently focusing on **my studies**.
 
-- 🌱 I’m currently learning **Vue.js**.
+- 🌱 I’m currently learning **Rust**.
 
-- 💬 Ask me about **Discord, JS or TypeScript**.
+- 💬 Ask me about **JavaScript, TypeScript, or Discord**.
 
 - ⚡ Fun fact **I created my first website when I was 7**.
 
